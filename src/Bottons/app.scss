@@ -49,10 +49,14 @@
 .no-border{
     border: none;
     color: var(--text-color);
-
     
 }
 .jkbtn-blue{
     background-color: var(--jk-blue);
+    @extend .no-border;
+}
+
+.jkbtn-blue:hover{
+    background-color: var(--jk-blue-hover);
     @extend .no-border;
 }
