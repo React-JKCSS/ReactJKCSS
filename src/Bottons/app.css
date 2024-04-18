@@ -46,3 +46,12 @@
   cursor: pointer;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.no-border, .jkbtn-blue {
+  border: none;
+  color: var(--text-color);
+}
+
+.jkbtn-blue {
+  background-color: var(--jk-blue);
+}
