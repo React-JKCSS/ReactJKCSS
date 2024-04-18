@@ -23,7 +23,7 @@
 ``` jsx
 
 import React from 'react'
-import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow} from 'react-jkcss'
+import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow} from '@jehankandy/jkcss'
 
 
 const ReactJK = () => {
