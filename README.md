@@ -10,7 +10,7 @@
 ## Quick Start Guide :computer:
 
 - In Your React js Project
-- open Terminal
+- open Terminal and install `@jehankandy/react-jkcss`
 
 ``` js
 
