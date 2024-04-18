@@ -7,6 +7,9 @@
 - This is the JKCSS components Build with React
 - Dynamic front-end development CSS framework
 
+## Quick Start Guide :computer:
+
+
 ## Documentation :notebook:
 
 | Component | Description |
@@ -18,7 +21,7 @@
 | `<ButtonRed> </ButtonRed>` | Red color Button |
 | `<ButtonYellow> </ButtonYellow>` | Yellow color Button |
 
-## Quick Start Guide :computer:
+
 
 ## Versioning of the project :grey_question:
 
