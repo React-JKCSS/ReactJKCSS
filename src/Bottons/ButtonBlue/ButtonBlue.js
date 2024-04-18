@@ -1,5 +1,5 @@
 import React from "react";
-import '../Buttons.css'
+import '../app.css'
 
 const ButtonBlue = ({ onClick, children }) => (
     <button className="button" onClick={onClick}>
