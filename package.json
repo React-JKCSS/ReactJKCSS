@@ -1,0 +1,22 @@
+{
+  "name": "react-jkcss",
+  "version": "1.0.0",
+  "description": "JKCSS with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/React-JKCSS/ReactJKCSS.git"
+  },
+  "keywords": [
+    "ReactJKCSS"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/React-JKCSS/ReactJKCSS/issues"
+  },
+  "homepage": "https://github.com/React-JKCSS/ReactJKCSS#readme"
+}
