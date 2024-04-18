@@ -60,3 +60,44 @@
     background-color: var(--jk-blue-hover);
     @extend .no-border;
 }
+
+.jkbtn-gray{
+    background-color: var(--jk-gray);
+    @extend .no-border;
+}
+.jkbtn-gray:hover{
+    background-color: var(--jk-gray-hover);
+    @extend .no-border;
+}
+.jkbtn-green{
+    background-color: var(--jk-green);
+    @extend .no-border;
+}
+.jkbtn-green:hover{
+    background-color: var(--jk-green-hover);
+    @extend .no-border;
+}
+.jkbtn-red{
+    background-color: var(--jk-red);
+    @extend .no-border;
+}
+.jkbtn-red:hover{
+    background-color: var(--jk-red-hover);
+    @extend .no-border;
+}
+.jkbtn-yellow{
+    background-color: var(--jk-yellow);
+    @extend .no-border;
+}
+.jkbtn-yellow:hover{
+    background-color: var(--jk-yellow-hover);
+    @extend .no-border;
+}
+.jkbtn-info{
+    background-color: var(--jk-lightblue);
+    @extend .no-border;
+}
+.jkbtn-info:hover{
+    background-color: var(--jk-lightblue-hover);
+    @extend .no-border;
+}

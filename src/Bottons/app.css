@@ -47,7 +47,7 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.no-border, .jkbtn-blue:hover, .jkbtn-blue {
+.no-border, .jkbtn-info:hover, .jkbtn-info, .jkbtn-yellow:hover, .jkbtn-yellow, .jkbtn-red:hover, .jkbtn-red, .jkbtn-green:hover, .jkbtn-green, .jkbtn-gray:hover, .jkbtn-gray, .jkbtn-blue:hover, .jkbtn-blue {
   border: none;
   color: var(--text-color);
 }
@@ -58,4 +58,44 @@
 
 .jkbtn-blue:hover {
   background-color: var(--jk-blue-hover);
+}
+
+.jkbtn-gray {
+  background-color: var(--jk-gray);
+}
+
+.jkbtn-gray:hover {
+  background-color: var(--jk-gray-hover);
+}
+
+.jkbtn-green {
+  background-color: var(--jk-green);
+}
+
+.jkbtn-green:hover {
+  background-color: var(--jk-green-hover);
+}
+
+.jkbtn-red {
+  background-color: var(--jk-red);
+}
+
+.jkbtn-red:hover {
+  background-color: var(--jk-red-hover);
+}
+
+.jkbtn-yellow {
+  background-color: var(--jk-yellow);
+}
+
+.jkbtn-yellow:hover {
+  background-color: var(--jk-yellow-hover);
+}
+
+.jkbtn-info {
+  background-color: var(--jk-lightblue);
+}
+
+.jkbtn-info:hover {
+  background-color: var(--jk-lightblue-hover);
 }
