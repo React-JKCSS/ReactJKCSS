@@ -12,8 +12,10 @@
 - In Your React js Project
 - open Terminal
 
-``` npm
-        npm i @jehankandy/react-jkcss
+``` js
+
+    npm i @jehankandy/react-jkcss
+
 ``` 
 
 - follow up following code
