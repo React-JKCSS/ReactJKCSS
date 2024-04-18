@@ -77,5 +77,7 @@ export default ReactJK
 | v1.0.0 | initial release of the Project, Adding Butttons | 18 April 2024 |
 
 
+## License Copyright
 
+- The React-JKCSS is Licensed under [MIT](https://github.com/React-JKCSS/ReactJKCSS/blob/master/LICENSE)
 
