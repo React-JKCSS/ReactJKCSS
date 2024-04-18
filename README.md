@@ -9,6 +9,10 @@
 
 ## Quick Start Guide :computer:
 
+- In Your React js Project
+- open Terminal
+
+        npm i @jehankandy/react-jkcss
 
 ## Documentation :notebook:
 
