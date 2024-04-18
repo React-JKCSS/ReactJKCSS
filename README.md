@@ -16,7 +16,7 @@
 
 - follow up following code
 
-``` react
+``` jsx
 
     import
 
