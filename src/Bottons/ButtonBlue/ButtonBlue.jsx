@@ -1,5 +1,5 @@
 import React from "react";
-import '../app.css'
+import '../../Styles/app.css'
 
 const ButtonBlue = ({ onClick, children }) => (
     <button className="jkbtn jkbtn-blue" onClick={onClick}>
