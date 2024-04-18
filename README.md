@@ -14,6 +14,14 @@
 
         npm i @jehankandy/react-jkcss
 
+- follow up following code
+
+``` react
+
+    import
+
+```
+
 ## Documentation :notebook:
 
 | Component | Description |
