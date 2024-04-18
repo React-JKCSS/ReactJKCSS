@@ -9,6 +9,11 @@
 
 ## Documentation :notebook:
 
+| Component | Description |
+|--------|--------|
+| <ButtonBlue> | Blue color Button |
+
+
 ## Versioning of the project :grey_question:
 
 | Version | Description | Release Date|
