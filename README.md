@@ -1,8 +1,10 @@
 # React-JKCSS
 
-<center>
-    <img src="https://avatars.githubusercontent.com/u/167443241?s=200&v=4">
-<center>
+<p class="text-align:center">
+    HI all
+</p>
+
+
 
 ## About React-JKCSS :heart:
 
