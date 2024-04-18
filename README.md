@@ -11,7 +11,7 @@
 
 | Component | Description |
 |--------|--------|
-| <ButtonBlue> | Blue color Button |
+| `<ButtonBlue>` | Blue color Button |
 
 
 ## Versioning of the project :grey_question:
