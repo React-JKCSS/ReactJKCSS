@@ -11,7 +11,13 @@
 
 | Component | Description |
 |--------|--------|
-| `<ButtonBlue>` | Blue color Button |
+| `<ButtonBlue> </ButtonBlue>` | Blue color Button |
+| `<ButtonGray> </ButtonGray>` | Gray color Button |
+| `<ButtonGreen> </ButtonGreen>` | Green color Button |
+| `<ButtonInfo> </ButtonInfo>` | Info (LightBlue) color Button |
+| `<ButtonRed> </ButtonRed>` | Red color Button |
+| `<ButtonYellow> </ButtonYellow>` | Yellow color Button |
+
 
 
 ## Versioning of the project :grey_question:
