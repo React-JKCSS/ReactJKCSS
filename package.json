@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/React-JKCSS/ReactJKCSS/issues"
   },
-  "homepage": "https://github.com/React-JKCSS/ReactJKCSS#readme"
+  "homepage": "https://github.com/React-JKCSS/ReactJKCSS#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
