@@ -1,10 +1,10 @@
 import React from "react";
 import '../app.css'
 
-const ButtonBlue = ({ onClick, children }) => (
+const ButtonGreen = ({ onClick, children }) => (
     <button className="jkbtn jkbtn-green" onClick={onClick}>
       {children}
     </button>
   );
   
-  export default ButtonBlue;
+  export default ButtonGreen;
