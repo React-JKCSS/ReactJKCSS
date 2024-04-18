@@ -5,6 +5,7 @@
   Dynamic front-end development CSS framework
 </p>
 
+<hr>
 
 ## About React-JKCSS :heart:
 
