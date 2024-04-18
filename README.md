@@ -22,7 +22,38 @@
 
 ``` jsx
 
-    import
+import React from 'react'
+import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow} from 'react-jkcss'
+
+
+const ReactJK = () => {
+  return (
+    <div className="">
+        <div>TesTing JKCSS REact</div>
+
+        <ButtonBlue>
+            Blue Button
+        </ButtonBlue>
+        <ButtonRed>
+            Red Button
+        </ButtonRed>
+        <ButtonGray>
+            Gray Button
+        </ButtonGray>
+        <ButtonGreen>
+            Green Button
+        </ButtonGreen>
+        <ButtonInfo>
+            Info Button
+        </ButtonInfo>
+        <ButtonYellow>
+            Yellow Button
+        </ButtonYellow>
+    </div>
+  )
+}
+
+export default ReactJK
 
 ```
 
