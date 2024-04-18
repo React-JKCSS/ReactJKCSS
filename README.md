@@ -18,7 +18,7 @@
 | `<ButtonRed> </ButtonRed>` | Red color Button |
 | `<ButtonYellow> </ButtonYellow>` | Yellow color Button |
 
-
+## Quick Start Guide :computer:
 
 ## Versioning of the project :grey_question:
 
