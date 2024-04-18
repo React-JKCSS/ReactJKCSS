@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/167443241?s=200&v=4" />
+  Dynamic front-end development CSS framework
 </p>
 
 
