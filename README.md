@@ -1,7 +1,7 @@
 # React-JKCSS
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/167443241?s=200&v=4" />
+  <img src="https://avatars.githubusercontent.com/u/167443241?s=200&v=4" /><br>
   Dynamic front-end development CSS framework
 </p>
 
