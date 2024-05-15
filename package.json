@@ -1,5 +1,5 @@
 {
-  "name": "react-jkcss",
+  "name": "@jehankandy/react-jkcss",
   "version": "1.0.0",
   "description": "JKCSS with React",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "React",
     "2024"
   ],
-  "author": "",
+  "author": "JehanKandy",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/React-JKCSS/ReactJKCSS/issues"
