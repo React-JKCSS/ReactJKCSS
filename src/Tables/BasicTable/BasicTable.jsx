@@ -3,7 +3,7 @@ import '../../Styles/app.css'
 import PropTypes from 'prop-types';
 
 const BasicTable = ({ columns, data }) => (
-    <table>
+    <table className="jk-table">
         <thead>
             <tr>
                 {
