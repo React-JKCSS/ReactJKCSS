@@ -29,10 +29,10 @@ const BasicTable = ({ columns, data }) => (
 
 // check props are not empty
 
-BasicTable.propTypes = {
-    columns: PropTypes.arrayOf(PropTypes.string).isRequired,
-    data: PropTypes.arrayOf(PropTypes.object).isRequired
-};
+// BasicTable.propTypes = {
+//     columns: PropTypes.arrayOf(PropTypes.string).isRequired,
+//     data: PropTypes.arrayOf(PropTypes.object).isRequired
+// };
 
 
 export default BasicTable;

@@ -6,3 +6,4 @@ export { default as ButtonRed } from './src/Bottons/ButtonRed/ButtonRed';
 export { default as ButtonYellow } from './src/Bottons/ButtonYellow/ButtonYellow';
 
 // for tables
+export { default as BasicTable } from './src/Tables/BasicTable/BasicTable';
