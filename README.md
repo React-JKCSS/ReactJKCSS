@@ -30,7 +30,7 @@
 ``` jsx
 
 import React from 'react'
-import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow} from '@jehankandy/jkcss'
+import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow, ButtonCustom, BasicTable, BasicTableHover} from '@jehankandy/jkcss'
 
 
 const ReactJK = () => {
@@ -56,6 +56,15 @@ const ReactJK = () => {
         <ButtonYellow>
             Yellow Button
         </ButtonYellow>
+
+        // custom button
+        <ButtonCustom bgColor={"red"} textColor={"white"}>Custom Button</ButtonCustom>
+
+        // tables
+
+        <BasicTable columns={columns} data={data} />
+        <BasicTableHover columns={columns} data={data} />
+
     </div>
   )
 }
