@@ -2,9 +2,12 @@ import React from "react";
 import '../../Styles/app.css'
 
 const ButtonCustom = ({ onClick, children, bgColor, textColor }) => {
-    const customBtnStyle = 
+    const customStyles = {
+        backgroundColor: bgColor,
+        color: textColor,
+      };
     return (
-        <button className={`jkbtn`} onClick={onClick}>
+        <button className={`jkbtn`} onClick={onClick} style={customStyles}>
             {children}
         </button>
     )
