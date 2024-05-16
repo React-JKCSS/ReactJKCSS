@@ -7,3 +7,4 @@ export { default as ButtonYellow } from './src/Bottons/ButtonYellow/ButtonYellow
 
 // for tables
 export { default as BasicTable } from './src/Tables/BasicTable/BasicTable';
+export { default as BasicTableHover } from './src/Tables/BasicTable/BasicTableHover';
