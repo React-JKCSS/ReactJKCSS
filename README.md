@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/167443241?s=200&v=4" /><br>
-  Dynamic front-end development CSS framework
+  Dynamic front-end development React support CSS framework
 </p>
 
 <hr>
