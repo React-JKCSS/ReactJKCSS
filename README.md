@@ -75,6 +75,10 @@ export default ReactJK
 | `<ButtonRed> </ButtonRed>` | Red color Button |
 | `<ButtonYellow> </ButtonYellow>` | Yellow color Button |
 | `<ButtonCustom bgColor={"red"} textColor={"white"}>Custom Button</ButtonCustom>` | Custom Button |
+| `<ButtonRed> </ButtonRed>` | Red color Button |
+| `<BasicTable columns={columns} data={data} />` | BasicTable of JKCSS |
+| `<BasicTableHover columns={columns} data={data} />` | BasicTable Hover of JKCSS |
+
 
 
 
