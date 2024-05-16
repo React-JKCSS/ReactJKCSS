@@ -74,7 +74,7 @@ export default ReactJK
 | `<ButtonInfo> </ButtonInfo>` | Info (LightBlue) color Button |
 | `<ButtonRed> </ButtonRed>` | Red color Button |
 | `<ButtonYellow> </ButtonYellow>` | Yellow color Button |
-| `<ButtonYellow> </ButtonYellow>` | Yellow color Button |
+| `<ButtonCustom bgColor={"red"} textColor={"white"}>Custom Button</ButtonCustom>` | Custom Button |
 
 
 
