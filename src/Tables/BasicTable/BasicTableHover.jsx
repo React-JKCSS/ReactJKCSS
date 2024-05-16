@@ -3,7 +3,7 @@ import '../../Styles/app.css'
 import PropTypes from 'prop-types';
 
 const BasicTableHover = ({ columns, data }) => (
-    <table className="jk-table">
+    <table className="jk-table hover-table">
         <thead>
             <tr>
                 {
