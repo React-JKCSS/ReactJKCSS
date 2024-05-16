@@ -1,5 +1,6 @@
 import React from "react";
 import '../../Styles/app.css'
+import PropTypes from 'prop-types';
 
 const BasicTable = ({ columns, data }) => (
     <table>
