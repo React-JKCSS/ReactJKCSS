@@ -1,7 +1,7 @@
 import React from 'react'
 import '../../Styles/app.css'
 
-const ButtonLargeGray = () => {
+const ButtonLargeGray = ({ onClick, children }) => {
   return (
     <button className="jkbtn-lg jkbtn-gray" onClick={onClick}>
       {children}
