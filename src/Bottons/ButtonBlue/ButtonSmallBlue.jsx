@@ -1,8 +1,11 @@
 import React from 'react'
+import '../../Styles/app.css'
 
 const ButtonSmallBlue = () => {
   return (
-    <div>ButtonSmallBlue</div>
+    <button className="jkbtn-sm jkbtn-blue" onClick={onClick}>
+      {children}
+    </button>
   )
 }
 
