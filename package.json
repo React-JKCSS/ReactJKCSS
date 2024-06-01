@@ -1,5 +1,5 @@
 {
-  "name": "@jehankandy/react-jkcss",
+  "name": "react-jkcss",
   "version": "1.2.0",
   "description": "JKCSS with React",
   "main": "index.js",

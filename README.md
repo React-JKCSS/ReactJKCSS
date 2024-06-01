@@ -30,7 +30,7 @@
 ``` jsx
 
 import React from 'react'
-import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow, ButtonCustom, BasicTable, BasicTableHover} from '@jehankandy/jkcss'
+import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow, ButtonCustom, BasicTable, BasicTableHover} from 'react-jkcss'
 
 
 const ReactJK = () => {
