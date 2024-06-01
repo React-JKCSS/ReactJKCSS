@@ -30,7 +30,7 @@
 ``` jsx
 
 import React from 'react'
-import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow, ButtonCustom, BasicTable, BasicTableHover} from '@jehankandy/jkcss'
+import {ButtonBlue, ButtonRed, ButtonGray, ButtonGreen, ButtonInfo, ButtonYellow, ButtonCustom, BasicTable, BasicTableHover} from 'react-jkcss'
 
 
 const ReactJK = () => {
@@ -96,10 +96,12 @@ export default ReactJK
 |--------|--------|---------|
 | v1.0.0 | initial release of the Project, Adding Butttons | 18 April 2024 |
 | v1.1.0 | Updating Butttons, Adding tables | 16 May 2024 |
+| v1.2.0 | Updating Butttons (Adding Large and Small Buttons) | 01 June 2024 |
 
 ## Developers and Designers
 
-- JehanKandy (BackendExpert)
+- [JehanKandy](https://github.com/BackendExpert)
+- [Anupa Gamage](https://github.com/Anupa1998)
 
 ## License Copyright
 
