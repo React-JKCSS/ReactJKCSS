@@ -18,8 +18,11 @@ export { default as ButtonSmallRed } from './src/Bottons/ButtonRed/ButtonSmallRe
 export { default as ButtonLargeYellow } from './src/Bottons/ButtonYellow/ButtonLargeYellow';
 export { default as ButtonSmallYellow } from './src/Bottons/ButtonYellow/ButtonSmallYellow';
 
+
 // ButtonCustom
-export { default as ButtonCustom} from './src/Bottons/ButtonCustom/ButtonCustom';
+export { default as ButtonCustom } from './src/Bottons/ButtonCustom/ButtonCustom';
+export { default as ButtonCustomLarge } from './src/Bottons/ButtonCustom/ButtonCustomLarge';
+export { default as ButtonCustomSmall } from './src/Bottons/ButtonCustom/ButtonCustomSmall';
 
 // for tables
 export { default as BasicTable } from './src/Tables/BasicTable/BasicTable';
