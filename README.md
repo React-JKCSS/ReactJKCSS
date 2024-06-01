@@ -100,8 +100,8 @@ export default ReactJK
 
 ## Developers and Designers
 
-- [JehanKandy]()
-- [Anupa Gamage]()
+- [JehanKandy](https://github.com/BackendExpert)
+- [Anupa Gamage](https://github.com/Anupa1998)
 
 ## License Copyright
 
