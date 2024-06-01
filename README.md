@@ -96,10 +96,12 @@ export default ReactJK
 |--------|--------|---------|
 | v1.0.0 | initial release of the Project, Adding Butttons | 18 April 2024 |
 | v1.1.0 | Updating Butttons, Adding tables | 16 May 2024 |
+| v1.2.0 | Updating Butttons (Adding Large and Small Buttons) | 01 June 2024 |
 
 ## Developers and Designers
 
-- JehanKandy (BackendExpert)
+- [JehanKandy]()
+- [Anupa Gamage]()
 
 ## License Copyright
 
