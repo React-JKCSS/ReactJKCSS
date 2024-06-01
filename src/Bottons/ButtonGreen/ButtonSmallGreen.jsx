@@ -3,7 +3,7 @@ import '../../Styles/app.css'
 
 const ButtonSmallGreen = ({ onClick, children }) => {
     return (
-        <button className="jkbtn-lg jkbtn-green" onClick={onClick}>
+        <button className="jkbtn-sm jkbtn-green" onClick={onClick}>
           {children}
         </button>
       )
