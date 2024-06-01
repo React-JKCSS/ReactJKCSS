@@ -10,6 +10,7 @@ export { default as ButtonSmallBlue } from './src/Bottons/ButtonBlue/ButtonSmall
 export { default as ButtonLargeGray } from './src/Bottons/ButtonGray/ButtonLargeGray';
 export { default as ButtonSmallGray } from './src/Bottons/ButtonGray/ButtonSmallGray';
 export { default as ButtonLargeGreen } from './src/Bottons/ButtonGreen/ButtonLargeGreen'; 
+export { default as ButtonSmallGreen } from './src/Bottons/ButtonGreen/ButtonSmallGreen';
 
 // ButtonCustom
 export { default as ButtonCustom} from './src/Bottons/ButtonCustom/ButtonCustom';
