@@ -6,6 +6,7 @@ export { default as ButtonRed } from './src/Bottons/ButtonRed/ButtonRed';
 export { default as ButtonYellow } from './src/Bottons/ButtonYellow/ButtonYellow';
 
 export { default as ButtonLargeBlue } from './src/Bottons/ButtonBlue/ButtonLargeBlue';
+export { default as ButtonSmallBlue } from './src/Bottons/ButtonBlue/ButtonSmallBlue';
 
 // ButtonCustom
 export { default as ButtonCustom} from './src/Bottons/ButtonCustom/ButtonCustom';
