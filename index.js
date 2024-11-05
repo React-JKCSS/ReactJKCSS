@@ -18,6 +18,9 @@ export { default as ButtonSmallRed } from './src/Bottons/ButtonRed/ButtonSmallRe
 export { default as ButtonLargeYellow } from './src/Bottons/ButtonYellow/ButtonLargeYellow';
 export { default as ButtonSmallYellow } from './src/Bottons/ButtonYellow/ButtonSmallYellow';
 
+// Default btn
+
+export { default as DefaultBtn } from './src/Bottons/DefaultBtn/DefaultBtn'
 
 // ButtonCustom
 export { default as ButtonCustom } from './src/Bottons/ButtonCustom/ButtonCustom';
