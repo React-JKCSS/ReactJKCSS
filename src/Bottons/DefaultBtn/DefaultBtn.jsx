@@ -1,8 +1,9 @@
 import React from 'react'
+import '../../Styles/testStyle.css'
 
-const DefaultBtn = ({ children, onClick }) => {
+const DefaultBtn = ({ style, children, onClick }) => {
   return (
-    <button className='' onClick={onClick}>
+    <button className={style} onClick={onClick}>
         {children}
     </button>
   )
