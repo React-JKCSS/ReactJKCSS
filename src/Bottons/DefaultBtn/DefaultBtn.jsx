@@ -1,8 +1,10 @@
 import React from 'react'
 
-const DefaultBtn = ({}) => {
+const DefaultBtn = ({ children, onClick }) => {
   return (
-    <div>DefaultBtn</div>
+    <button className='' onClick={onClick}>
+        {children}
+    </button>
   )
 }
 
